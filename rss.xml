@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Steve's Photography]]></title>
         <description><![CDATA[Steve's Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stevephotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 22:15:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 22:21:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stevephotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is my text.  I really hope it works well!</p>]]></description>
-            <link>undefined6c20dd62-cc1b-4cda-ba09-1c46f4fd442c/index.html</link>
+            <title><![CDATA[My First Post]]></title>
+            <description><![CDATA[<article><h1>My First Post</h1><p>What happens if I try to write a longer piece here?  I hope it doesn't just type random stuff at the the centre of the screen, with no option for formatting.  That doens't quite seem to make sense.</p></article>]]></description>
+            <link>https://thegrid.ai/stevephotography/6c20dd62-cc1b-4cda-ba09-1c46f4fd442c/index.html</link>
             <guid isPermaLink="false">6c20dd62-cc1b-4cda-ba09-1c46f4fd442c</guid>
-            <pubDate>Sun, 14 Feb 2016 22:15:02 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 22:21:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
